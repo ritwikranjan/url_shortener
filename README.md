@@ -1,7 +1,5 @@
 ## A simple URL Shortner in Go
 
-[![goreport][goreport-img]][goreport]
-
 Build this app to test my knowledge and challenge myself in Go. Fell free to suggest changes and improvements.
 
 ### Phase 1:
